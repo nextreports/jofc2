@@ -28,8 +28,7 @@ import ro.nextreports.jofc2.model.elements.AnimatedElement;
  * -------------------------------------------------------------
  */
 public class OnShowConverter extends ConverterBase<AnimatedElement.OnShow> {
-
-	@SuppressWarnings("unchecked")
+	
 	public boolean canConvert(Class c) {
 		return AnimatedElement.OnShow.class.isAssignableFrom(c);
 	}
