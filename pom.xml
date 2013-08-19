@@ -7,8 +7,8 @@
   <version>1.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>jofc</name>
-  <url>http://maven.apache.org</url>
+  <name>jofc2</name>
+  <url>https://github.com/nextreports/jofc2</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
